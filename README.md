@@ -8,6 +8,6 @@ Thanks for your interest in joining the One Loan Team here at Guaranteed Rate.  
 
 If you are new to Clojure, we don't expect perfectly idiomatic code.  Instead, we want to see the decisions you have made and the rationale behind them (via comments or other documentation).  If you are an experienced Clojure developer, show us.
 
-You are free to choose any challenge (or challenges) that you feel allows you to show off your knowledge of Clojure.  [Number 7](https://projecteuler.net/problem=7) is popular, and we can also recommend [number 4](https://projecteuler.net/problem=4).
+You are free to choose any challenge (or challenges) that you feel allows you to show off your knowledge of Clojure.  [Number 7](https://projecteuler.net/problem=7) is popular, and we can also recommend [number 4](https://projecteuler.net/problem=4). Regardless of what you choose, treat the submission as code you would deploy to production and not just a "puzzle" problem or a "toy" problem.
 
 [Team One Loan]: mailto:productplatform@rate.com?subject=Programming+Challenge "Team One Loan"
